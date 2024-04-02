@@ -1,4 +1,4 @@
-# Image classification using Tensorflow
+# Visual Pattern Recognition: Categorizing Images using Tensorflow
 
 ## Agenda
 

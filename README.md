@@ -1,4 +1,4 @@
-# Visual Pattern Recognition: Categorizing Images using Tensorflow
+# Visual Object Recognition: Identifying Animals, Vehicles, and More using Tensorflow
 
 ## Agenda
 

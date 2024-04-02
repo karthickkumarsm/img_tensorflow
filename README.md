@@ -1,4 +1,4 @@
-# Image classification using CNN
+# Image classification using Tensorflow
 
 ## Agenda
 
